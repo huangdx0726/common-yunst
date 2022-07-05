@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.yunst.configure.YunstConfigure,\
+  com.yunst.configure.YunstProperties
+
+

@@ -10,8 +10,8 @@ mvn install
 
 #### 使用说明
 
-1.  YunstOrderUtils  开户
-2.  YunstMemberUtils  充值
+1.  YunstOrderUtils  充值 ，提现  对应OrderService
+2.  YunstMemberUtils 创建会员，短信等 对应MemberService,MemberPwdService
 
 
 #### 参与贡献
